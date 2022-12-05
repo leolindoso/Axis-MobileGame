@@ -1,2 +1,2 @@
 # Axis-MobileGame
-Repositorio com o Código do jogo Axis, desenvolvido por mim
+Code for a mobile Hypercasual game called Axis(2019)
